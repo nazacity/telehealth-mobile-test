@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Noto Sans Thai Light.ttf",
+      "sha1": "13e50b9acb5db4579eead65d5af5175a4de2bbc9"
+    },
+    {
+      "path": "src/assets/fonts/Noto Sans Thai SemiCondensed Regular.ttf",
+      "sha1": "4d4918f962ea0c2b75152287eeb4ff6dddfc4c8c"
+    },
+    {
+      "path": "src/assets/fonts/Noto Sans Thai SemiCondensed SemiBold.ttf",
+      "sha1": "12af6e7065fd1f9aa7fddbdddc41fe78990af6ab"
+    }
+  ]
+}
