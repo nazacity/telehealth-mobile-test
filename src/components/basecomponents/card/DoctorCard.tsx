@@ -83,8 +83,7 @@ const styles = StyleSheet.create({
     paddingVertical: 10,
     paddingHorizontal: 20,
     marginLeft: -20,
-    borderTopLeftRadius: 20,
-    borderBottomLeftRadius: 20,
+    borderRadius: 20,
     zIndex: 1000,
     backgroundColor: COLORS.white,
     flex: 1,
@@ -103,7 +102,7 @@ const styles = StyleSheet.create({
     borderRadius: 5,
     paddingHorizontal: 10,
   },
-  logoContainer: {marginRight: 15},
+  logoContainer: {marginRight: 10},
   logo: {width: 20, height: 20},
   flex: {flex: 1},
 });
